@@ -1,0 +1,7 @@
+/node_modules
+nmp-debug.log
+.DS_store
+
+#IntelliJ
+*.iml
+.idea
